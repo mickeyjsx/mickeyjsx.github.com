@@ -3150,6 +3150,12 @@ body,
       -ms-user-select: none;
           user-select: none;
 }
+.footer___3gRhn {
+  margin-top: 80px;
+  margin-bottom: 16px;
+  text-align: center;
+  color: #999;
+}
 /* stylelint-disable at-rule-empty-line-before,at-rule-name-space-after,at-rule-no-unknown */
 /* stylelint-disable declaration-bang-space-before */
 /* stylelint-disable declaration-bang-space-before */
